@@ -1,0 +1,32 @@
+{
+  "id": "toucheng-parking-ordinance",
+  "title": "頭城鎮公有停車場收費管理自治條例",
+  "jurisdiction": "宜蘭縣頭城鎮",
+  "governing_body": "頭城鎮公所",
+  "versions": [
+    {
+      "version_id": "v2011",
+      "date_enacted": "2011-01-01",
+      "file": "ordinance_2011.md",
+      "change_type": "enacted",
+      "description": "首次制定。",
+      "date_note": "實際公布／施行日期待補。"
+    },
+    {
+      "version_id": "v2019",
+      "date_enacted": "2019-01-01",
+      "file": "ordinance_2019.md",
+      "change_type": "amended",
+      "description": "修正第四條（收費基準）。",
+      "date_note": "實際公布／施行日期待補。"
+    },
+    {
+      "version_id": "v2025",
+      "date_enacted": "2025-01-01",
+      "file": "ordinance_2025.md",
+      "change_type": "amended",
+      "description": "再次修正第四條（新增鎮長核可／同意條款，如適用）。",
+      "date_note": "實際公布／施行日期待補。"
+    }
+  ]
+}
